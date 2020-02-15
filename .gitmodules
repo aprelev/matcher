@@ -1,0 +1,3 @@
+[submodule "external/nolibc"]
+	path = external/nolibc
+	url = git@github.com:aprelev/nolibc.git
